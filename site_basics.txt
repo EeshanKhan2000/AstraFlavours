@@ -1,0 +1,36 @@
+info: what we do, menu, where, faq
+function: book event, regular sevice, order food
+
+Home Page
+	Header - Nav (Contact Us, Menu, Our Services, FAQs) -> Menu will not be a dropdown   (Old: Menu Will be large dropdown (lunch, breakfast, dinner, customize)
+
+	Hero Section -  See Menu and Contact (cta) not (Book Food and Services)
+	What We Offer - NCC Images
+	About Us - NCC Images
+	(cta)
+	Get in Touch
+	Contact Us
+
+Menu
+	This will be a simple static menu, with a contact us for customisation.
+
+	(
+		Old:
+
+		Popular Menus -> Search and Filter with prefilled items
+		Custom Menu -> Search and Filter
+		Confirm Booking (not requiring login and registry yet)
+
+		Note: Search and Filter is a seperate page
+	)
+
+Contact Us
+	Details of offrs again
+	Contact Details
+	Get in touch form
+
+Our Services
+	Cards of What we do
+
+
+Pages: All Nav  (Search and Filter + Confirm Booking  -> Not in current version)
